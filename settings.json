@@ -1,0 +1,71 @@
+{
+    "python.pythonPath": "D:\\development\\annaconda\\envs\\tf\\python.exe",
+    "workbench.activityBar.visible": true,
+    "remote.SSH.suppressWindowsSshWarning": true,
+    "remote.SSH.remotePlatform": {
+        "ecs-kc1_small_1_linux-20200308093706": "linux",
+        "hw2": "linux",
+        "hw0419": "linux",
+        "hw0426": "linux",
+        "myubuntu1": "linux",
+        "hw0518": "linux",
+        "aliyun": "linux",
+        "172.31.59.107": "linux"
+    },
+    "remote.SSH.configFile": "C:/Users/siyu/.ssh/config",
+    "window.zoomLevel": 0,
+    "markdown-preview-enhanced.previewTheme": "github-dark.css",
+    "leetcode.endpoint": "leetcode-cn",
+    "leetcode.workspaceFolder": "C:\\Users\\siyu\\.leetcode",
+    "leetcode.hint.configWebviewMarkdown": false,
+    "leetcode.hint.commentDescription": false,
+    "leetcode.defaultLanguage": "cpp",
+    "files.autoSave": "onFocusChange",
+    //vim
+    "vim.useSystemClipboard": true,
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j", "j"],
+            "after": ["<Esc>"]
+        }
+    ],
+    
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+        "before": ["H"],
+        "after": ["^"]
+        },
+        {
+        "before": ["L"],
+        "after": ["$"]
+        }
+    ],
+    "vim.handleKeys": {
+    "<C-a>": false,
+    "<C-c>": false,
+    "<C-v>": false,
+    "<C-s>": false,
+    "<C-f>": false
+   },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "workbench.editor.untitled.hint": "hidden",
+    "editor.quickSuggestions": true,
+    "vim.commandLineModeKeyBindings": [
+        
+    
+    ],
+    "vim.sneak": true,
+}
